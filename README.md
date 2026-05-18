@@ -45,4 +45,4 @@ This project was created to improve:
 Clone the project
 
 ```bash
-git clone https://github.com/your-username/coinswitch-clone.git
+git clone https://github.com/singh-abhinav1304/coinswitch-clone-website.git
