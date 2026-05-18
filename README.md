@@ -23,7 +23,6 @@ A modern and responsive clone of the CoinSwitch cryptocurrency platform website 
 
 - HTML5
 - CSS3
-- JavaScript
 - Netlify
 
 ---
